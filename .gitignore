@@ -1,0 +1,5 @@
+data/
+ckpt*/
+figs_fast/
+smoke.*
+results_fast.json
