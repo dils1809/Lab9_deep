@@ -3,3 +3,6 @@ ckpt*/
 figs_fast/
 smoke.*
 results_fast.json
+full_run*.log
+respuestas_borrador.md
+*.pdf
